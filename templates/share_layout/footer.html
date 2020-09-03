@@ -1,0 +1,25 @@
+
+<footer id="footer">
+        <div class="row">
+          <div class="col-lg-12">
+
+            <ul class="list-unstyled">
+              <li class="float-lg-right"><a href="#top">Back to top</a></li>
+              <li><a href="/" onclick="pageTracker._link(this.href); return false;">DuckTIL</a></li>
+              <li><a href="/feed">RSS</a></li>
+              <li><a href="/links.html">Links</a></li>
+              <li><a href="https://github.com/thomaspark/bootswatch/">GitHub</a></li>
+              <li><a href="../help/#api">API</a></li>
+              <li><a href="../help/#donate">Donate</a></li>
+            </ul>
+            <p>Powered by <a href="https://www.djangoproject.com/">Django</a></p>
+            <p>Based on <a href="https://getbootstrap.com" rel="nofollow">Bootstrap</a>. Icons from <a href="https://fontawesome.com/" rel="nofollow">Font Awesome</a>. Web fonts from <a href="https://fonts.google.com/" rel="nofollow">Google</a>.</p>
+
+          </div>
+        </div>
+    {% if ANALYTICS_CODE %}
+        {{ ANALYTICS_CODE| safe }}
+    {% endif %}
+</footer><!-- #colophon -->
+
+

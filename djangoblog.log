@@ -1,0 +1,39 @@
+[2020-08-30 16:47:13,268] INFO [django.utils.autoreload.run_with_reloader:598 autoreload] Watching for file changes with StatReloader
+[2020-08-30 16:47:19,625] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2020-08-30 16:47:19,634] INFO [blog.context_processors.seo_processor:30 context_processors] set processor cache.
+[2020-08-30 16:47:19,699] INFO [DjangoBlog.utils.get_blog_setting:219 utils] set cache get_blog_setting
+[2020-08-30 16:47:19,803] INFO [blog.templatetags.blog_tags.load_sidebar:135 blog_tags] load sidebar
+[2020-08-30 16:47:26,614] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:archives
+[2020-08-30 16:47:26,622] INFO [blog.templatetags.blog_tags.load_sidebar:135 blog_tags] load sidebar
+[2020-08-30 16:47:28,487] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2020-08-30 16:47:46,272] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2020-08-30 16:47:58,453] INFO [django.utils.autoreload.trigger_reload:222 autoreload] /home/darzin/Documents/projects/DjangoBlog-master/DjangoBlog/settings.py changed, reloading.
+[2020-08-30 14:17:59,223] INFO [django.utils.autoreload.run_with_reloader:598 autoreload] Watching for file changes with StatReloader
+[2020-08-30 14:18:01,535] INFO [django.utils.autoreload.trigger_reload:222 autoreload] /home/darzin/Documents/projects/DjangoBlog-master/DjangoBlog/settings.py changed, reloading.
+[2020-08-30 14:18:02,331] INFO [django.utils.autoreload.run_with_reloader:598 autoreload] Watching for file changes with StatReloader
+[2020-08-30 14:18:03,749] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2020-08-30 14:18:03,756] INFO [blog.context_processors.seo_processor:30 context_processors] set processor cache.
+[2020-08-30 14:18:03,761] INFO [DjangoBlog.utils.get_blog_setting:219 utils] set cache get_blog_setting
+[2020-08-30 14:18:03,849] INFO [blog.templatetags.blog_tags.load_sidebar:135 blog_tags] load sidebar
+[2020-08-30 14:19:56,087] INFO [django.utils.autoreload.trigger_reload:222 autoreload] /home/darzin/Documents/projects/DjangoBlog-master/DjangoBlog/settings.py changed, reloading.
+[2020-08-30 14:19:56,865] INFO [django.utils.autoreload.run_with_reloader:598 autoreload] Watching for file changes with StatReloader
+[2020-08-30 14:20:02,411] INFO [django.utils.autoreload.trigger_reload:222 autoreload] /home/darzin/Documents/projects/DjangoBlog-master/DjangoBlog/settings.py changed, reloading.
+[2020-08-30 14:20:03,087] INFO [django.utils.autoreload.run_with_reloader:598 autoreload] Watching for file changes with StatReloader
+[2020-08-30 16:59:27,400] INFO [django.utils.autoreload.run_with_reloader:598 autoreload] Watching for file changes with StatReloader
+[2020-08-30 16:59:31,512] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2020-08-30 16:59:31,515] INFO [blog.context_processors.seo_processor:19 context_processors] set processor cache.
+[2020-08-30 16:59:31,516] INFO [DjangoBlog.utils.get_blog_setting:208 utils] set cache get_blog_setting
+[2020-08-30 16:59:31,547] INFO [blog.templatetags.blog_tags.load_sidebar:135 blog_tags] load sidebar
+[2020-08-30 17:01:14,632] INFO [DjangoBlog.utils.news:54 utils] cache_decorator set cache:get_current_site key:cad96623a36ad7dc9b2cae08123ac007
+[2020-08-30 17:01:14,660] ERROR [DjangoBlog.spider_notify.baidu_notify:20 spider_notify] Invalid URL 'asfasfgasffda': No schema supplied. Perhaps you meant http://asfasfgasffda?
+[2020-08-30 17:27:08,202] INFO [django.utils.autoreload.run_with_reloader:598 autoreload] Watching for file changes with StatReloader
+[2020-08-30 17:28:18,707] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2020-08-30 17:28:18,714] INFO [blog.context_processors.seo_processor:19 context_processors] set processor cache.
+[2020-08-30 17:28:18,718] INFO [DjangoBlog.utils.get_blog_setting:208 utils] set cache get_blog_setting
+[2020-08-30 17:28:18,805] INFO [blog.templatetags.blog_tags.load_sidebar:135 blog_tags] load sidebar
+[2020-08-30 17:31:11,757] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2020-08-30 17:31:29,717] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2020-08-30 17:31:38,151] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
+[2020-08-30 17:31:40,432] INFO [blog.templatetags.blog_tags.load_sidebar:135 blog_tags] load sidebar
+[2020-08-30 17:31:44,496] INFO [blog.templatetags.blog_tags.load_sidebar:135 blog_tags] load sidebar
+[2020-08-30 17:32:48,703] INFO [blog.views.get_queryset_from_cache:70 views] set view cache.key:index_1
